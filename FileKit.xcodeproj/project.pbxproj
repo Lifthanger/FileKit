@@ -147,6 +147,7 @@
 		17217D551CDCD13700723D11 /* RelativePathType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RelativePathType.swift; sourceTree = "<group>"; };
 		17217D5C1CDCD74000723D11 /* DispatchEvent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DispatchEvent.swift; sourceTree = "<group>"; };
 		17217D5D1CDCD74000723D11 /* DispatchWatcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DispatchWatcher.swift; sourceTree = "<group>"; };
+		186FE0CA1F223F8900D7CFA9 /* FileKit.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = FileKit.podspec; sourceTree = "<group>"; };
 		5204B7C31B968E8000AA473F /* Path.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Path.swift; sourceTree = "<group>"; };
 		5204B7E51B96ADA100AA473F /* String+FileKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+FileKit.swift"; sourceTree = "<group>"; };
 		5204B84B1B96B83800AA473F /* FileKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FileKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -241,6 +242,7 @@
 				5204B7B71B968B8600AA473F /* Products */,
 				521FC3FB1CDEEC12006C9C3C /* FileKit.playground */,
 				521FC3FE1CDF0144006C9C3C /* Package.swift */,
+				186FE0CA1F223F8900D7CFA9 /* FileKit.podspec */,
 				52EF7A981DA58DE00093B983 /* .swift-version */,
 				82F4F2BB1CA94DEC002C8393 /* .swiftlint.yml */,
 				527848661E18CADD007E14F0 /* README.md */,
